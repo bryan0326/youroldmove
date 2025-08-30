@@ -1,6 +1,9 @@
 # myapp
 
-A new Flutter project.
+A Flutter project for slow jogging for seniors
+<br> the report of canva https://www.canva.com/design/DAGpxqosIQM/o_Rmc8QYIAZC07qb7HZmCQ/view?utm_content=DAGpxqosIQM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbc334dbb08
+<br> the video demo with youtube https://www.youtube.com/watch?v=ThW5HIHt8Is
+
 
 ## Getting Started
 
